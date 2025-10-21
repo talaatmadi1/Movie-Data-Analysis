@@ -55,9 +55,4 @@ Output: a pickle file (`query3.pkl`) containing
 
 ---
 
-## ⚙️ How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/movie-data-analysis
-   cd movie-data-analysis
